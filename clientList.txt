@@ -1,0 +1,4 @@
+Official: nimal,nimal@gmail.com,ceo
+Official: sunil,sunil@gmail.com,ceo
+Office_friend: lahiru,lahirukavinda300@gmail.com,clerk,2000/10/01
+Personal: kavinda,lahiru2,lahirukavinda200@gmail.com,2000/10/10
